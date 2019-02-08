@@ -40,7 +40,7 @@ See [this article](https://blog.sleeplessbeastie.eu/2016/08/01/how-to-get-starte
 
 ```vagrant ssh``` : connect with SSH to the VM
 
-```vagrant provision```
+```vagrant provision``` : forces reprovisioning of the vagrant machine
 
 ## Settings
 
