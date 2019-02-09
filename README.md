@@ -60,7 +60,6 @@ Install Python for Ansible :
          echo "Install Python for Ansible"
          apt-get install -y python
        SHELL
-    end
   ```
 
 Config for RAM & CPU :
