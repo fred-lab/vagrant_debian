@@ -63,7 +63,7 @@ Install Python for Ansible :
   ```
 
 Config for RAM & CPU :
-```aidl
+```
   config.vm.provider "virtualbox" do |vb|
      vb.memory = "1024"
      vb.cpus = 1
